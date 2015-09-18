@@ -9,6 +9,13 @@
         <atom:link href="https://thegrid.ai/startup-ideas/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>New startup idea: Hot-or-Not for .vimrc & .zshconfig files.</p>]]></description>
+            <link>https://twitter.com/jongold/status/267225305037549568</link>
+            <guid isPermaLink="false">7dcac1f8-5592-4002-8364-5f874d582fda</guid>
+            <pubDate>Fri, 18 Sep 2015 16:07:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>New startup idea: Clean Up Downloads / Desktop Folders as as Service</p>]]></description>
             <link>https://twitter.com/jongold/status/378751283320328192</link>
             <guid isPermaLink="false">1c277c9f-73ff-43fa-b67f-bfd565c6185e</guid>
@@ -68,13 +75,6 @@
             <description><![CDATA[<p>Messenger</p>]]></description>
             <link>https://thegrid.ai/startup-ideas/messenger/index.html</link>
             <guid isPermaLink="false">47a70258-e32f-49e0-9e04-50ed5a47a172</guid>
-            <pubDate>Fri, 18 Sep 2015 16:07:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="startup idea&colon; places to work like coffeeshops&comma; but you can go to the bathroom without your laptop being stolen&period; don&apos;t tell me those exist" src="https://pbs.twimg.com/media/BpuXl8DCUAEz2_N.png:large">]]></description>
-            <link>https://twitter.com/jongold/status/627120250430070784</link>
-            <guid isPermaLink="false">e6087546-ba2c-46f5-bea3-eeae31183ecc</guid>
             <pubDate>Fri, 18 Sep 2015 16:07:55 GMT</pubDate>
         </item>
     </channel>
