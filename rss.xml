@@ -5,8 +5,15 @@
         <description><![CDATA[Startup Ideas]]></description>
         <link>https://thegrid.ai/startup-ideas/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Sep 2015 16:09:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Sep 2015 16:09:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/startup-ideas/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Startup idea: I give you a budget and my details, you find me cars that I can afford to insure.</p>]]></description>
+            <link>https://twitter.com/jongold/status/223844775789469696</link>
+            <guid isPermaLink="false">e3d77172-4d33-49b0-8576-07b5c3cd505a</guid>
+            <pubDate>Fri, 18 Sep 2015 16:07:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>New startup idea: Hot-or-Not for .vimrc & .zshconfig files.</p>]]></description>
@@ -69,13 +76,6 @@
             <link>https://twitter.com/jongold/status/605387534307311616</link>
             <guid isPermaLink="false">035182af-19f8-4deb-ae73-24e664eee9f6</guid>
             <pubDate>Fri, 18 Sep 2015 16:07:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Messenger</p>]]></description>
-            <link>https://thegrid.ai/startup-ideas/messenger/index.html</link>
-            <guid isPermaLink="false">47a70258-e32f-49e0-9e04-50ed5a47a172</guid>
-            <pubDate>Fri, 18 Sep 2015 16:07:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
