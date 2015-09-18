@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Startup Ideas]]></title>
+        <description><![CDATA[Startup Ideas]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 18 Sep 2015 15:58:15 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>STARTUP IDEA: I give you a budget and my details, you find me cars that I can afford to insure.</p>]]></description>
+            <guid isPermaLink="false">7d9823ba-cdd9-4dbf-81d0-f9e2f843d0bd</guid>
+            <pubDate>Fri, 18 Sep 2015 15:58:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
