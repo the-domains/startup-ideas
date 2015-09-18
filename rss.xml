@@ -3,10 +3,17 @@
     <channel>
         <title><![CDATA[Startup Ideas]]></title>
         <description><![CDATA[Startup Ideas]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/startup-ideas/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Sep 2015 16:08:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 18 Sep 2015 16:08:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/startup-ideas/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>STARTUP IDEA: whatever startup you're currently working on, but doesn't send any email newsletters</p>]]></description>
+            <link>https://twitter.com/jongold/status/644661425156132864</link>
+            <guid isPermaLink="false">747ee6e2-5d2c-4d11-9b19-69781bf8b1bb</guid>
+            <pubDate>Fri, 18 Sep 2015 16:07:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Product idea: New  Smell, in an air freshener / cologne.</p>]]></description>
