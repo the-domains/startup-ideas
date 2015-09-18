@@ -9,6 +9,13 @@
         <atom:link href="https://thegrid.ai/startup-ideas/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Startup idea: like UberX but the driver sits in the back and you drive the bloody thing yourself.</p>]]></description>
+            <link>https://twitter.com/jongold/status/532975947088400384</link>
+            <guid isPermaLink="false">09956dc2-38e1-4189-8575-d8a660b7fa86</guid>
+            <pubDate>Fri, 18 Sep 2015 16:07:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Startup Idea: crawl through the @ProductHunt API with NLP+ML, autogenerate taglines that will get votes.</p>]]></description>
             <link>https://twitter.com/jongold/status/499852975045902336</link>
             <guid isPermaLink="false">d5798a2f-d752-457a-9ecd-34592462b05c</guid>
@@ -68,13 +75,6 @@
             <description><![CDATA[<p>STARTUP IDEA: like Berlin but with air conditioning when it's 37C maybe?</p>]]></description>
             <link>https://twitter.com/jongold/status/629565519956459520</link>
             <guid isPermaLink="false">edcb90d8-8e7f-4353-9724-3431e275bdf6</guid>
-            <pubDate>Fri, 18 Sep 2015 16:07:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Product idea: like the earth, but rotates over 36 hour periods so you can sleep longer</p>]]></description>
-            <link>https://twitter.com/jongold/status/534629602296360961</link>
-            <guid isPermaLink="false">5435df48-9df2-4837-a727-74bbbc69073b</guid>
             <pubDate>Fri, 18 Sep 2015 16:07:55 GMT</pubDate>
         </item>
     </channel>
