@@ -9,6 +9,13 @@
         <atom:link href="https://thegrid.ai/startup-ideas/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>new startup idea: subtwitter. like twitter but you can only send subtweets.</p>]]></description>
+            <link>https://twitter.com/jongold/status/515830882163507200</link>
+            <guid isPermaLink="false">5a17dddf-c838-4d8c-8f9e-cdde06f5413e</guid>
+            <pubDate>Fri, 18 Sep 2015 16:07:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>startup idea: twitter app that favs every tweet @pieratt & @_EricHu send. I'll give you a series A to build it.</p>]]></description>
             <link>https://twitter.com/jongold/status/539810044309950464</link>
             <guid isPermaLink="false">754914c7-15b2-44bc-8756-ebaf996318b0</guid>
@@ -68,13 +75,6 @@
             <description><![CDATA[<p>New product idea: Palantir-for-1%er-biker-gangs.</p>]]></description>
             <link>https://twitter.com/jongold/status/464022953974194179</link>
             <guid isPermaLink="false">0bfdadb5-24f7-4fe3-ac0f-dd8cd34e3cc4</guid>
-            <pubDate>Fri, 18 Sep 2015 16:07:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Free product idea: like a hand-powered coffee burr grinder, but without all the manual labour. Someone should really invent that.</p>]]></description>
-            <link>https://twitter.com/jongold/status/506848057892540416</link>
-            <guid isPermaLink="false">c311df5a-ac12-4e2e-8091-5821c1ab8a7a</guid>
             <pubDate>Fri, 18 Sep 2015 16:07:55 GMT</pubDate>
         </item>
     </channel>
