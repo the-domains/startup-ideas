@@ -1,6 +1,7 @@
 name: Startup Ideas
 favicon: null
 layout_spectrum: 0.8
+typography_spectrum: 0.23673
 cta:
   domain: null
   bucket: null
@@ -14,7 +15,12 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#fbfbfb'
+    - '#323232'
+    - '#afafaf'
+    - '#505050'
+    - '#757575'
   brandStrength: 0
   lightness: 0.5
   saturation: 0.5
