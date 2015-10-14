@@ -15,10 +15,10 @@ author:
           - 67
 related: []
 publisher:
-  url: 'http://twitter.com'
   name: Twitter
-  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
   domain: twitter.com
+  url: 'http://twitter.com'
+  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
 keywords:
   - jongold
   - startup
@@ -34,11 +34,16 @@ description: "STARTUP IDEA: whatever startup you're currently working on, but do
 inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://twitter.com/jongold/status/644661425156132864'
-datePublished: '2015-09-18T16:07:55.651Z'
+datePublished: '2015-10-14T19:19:23.043Z'
 title: ''
-dateModified: '2015-09-18T16:06:09.915Z'
+dateModified: '2015-09-18T16:10:04.050Z'
 sourcePath: _posts/2015-09-18-startup-idea-whatever-startup-youre-currently-working-on.md
 published: true
+starred: true
+authors: []
+inFeed: true
+hasPage: false
+inNav: false
 _type: Comment
 _context: 'http://schema.org'
 
